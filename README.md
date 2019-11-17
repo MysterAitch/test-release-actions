@@ -12,3 +12,4 @@ test edit 5 -- before annotated tag
 
 test edit 6
 
+test edit 7 -- before pushing tag without the "v*" prefix
