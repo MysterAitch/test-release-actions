@@ -8,3 +8,4 @@ test edit 3 -- custom commit message
 
 test edit 4
 
+test edit 5 -- before annotated tag
