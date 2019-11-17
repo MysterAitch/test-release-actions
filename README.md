@@ -3,3 +3,5 @@
 test edit 1
 
 test edit 2
+
+test edit 3 -- custom commit message
