@@ -22,6 +22,13 @@ jobs:
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
-          body: "test body content"
+          body: |
+            Bug Fixes:
+
+            - TODO: Describe any bug fixes
+
+            Enhancements:
+
+            - TODO: Describe any new features or enhancements
           draft: false
           prerelease: false
